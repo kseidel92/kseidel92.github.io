@@ -116,8 +116,8 @@ float:left;
 }
 .promo-p {
     text-align: center;
-    font-weight: 300;
-    font-size: 16px;
+    font-weight: 700;
+    font-size: 20px;
     padding-top:8px;
 
 }
@@ -150,7 +150,8 @@ float:left;
 }
 .serv-desc {
     text-align: center;
-    font-weight: 300;
+    font-weight: 500;
+    font-size: 15px;
     padding-top: 12px;
     color:#80828a;
     line-height: 1.6;
